@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartRoomProject</string>
+    <string name="enter_room">EnterRoom</string>
+    <string name="light">light</string>
+    <string name="lightlevel">lightlevel</string>
+    <string name="hum">humidity</string>
+    <string name="temp">temperature</string>
+    <string name="room">room</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="rooms">rooms</string>
+    <string name="Re">Respond</string>
+    <string name="image_content_description">LightON</string>
+    <string name="lightonoff">LightONOFF</string>
+    <string name="ringonoff">RingONOFF</string>
+    <string name="ok">OK</string>
+</resources>
